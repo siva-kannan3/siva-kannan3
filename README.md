@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **typescript and dsa.**
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 👯 I’m actively contributing to **open source projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
