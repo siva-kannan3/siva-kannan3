@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **react & nextjs.**
 
-- 🌱 I’m currently learning **typescript and dsa.**
+- 🌱 I’m currently learning **typescript and unit-testing.**
 
-- 👯 I’m actively contributing to **open source projects.**
+<!-- - 👯 I’m actively contributing to **open source projects.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
